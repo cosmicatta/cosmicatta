@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @cosmicatta
 - 👀 I’m interested in anything
-- 🌱 I’m currently learning python!
-- 💞️ I’m looking to collaborate on nothing atm..
 - 📫 How to reach me: don't
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: I love dark chocolate.
